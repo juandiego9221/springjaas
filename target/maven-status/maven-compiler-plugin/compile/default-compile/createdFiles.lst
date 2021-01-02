@@ -1,0 +1,9 @@
+pe/com/jdmm21/app/config/ApplicationConfiguration.class
+pe/com/jdmm21/app/config/SpringMVCConfig.class
+pe/com/jdmm21/app/config/SpringSecurityConfig.class
+pe/com/jdmm21/app/config/SecurityWebApplicationInitializer.class
+pe/com/jdmm21/app/config/SpringMvcWebApplicationInitializer.class
+pe/com/jdmm21/app/loginmodule/JaasPrincipal.class
+pe/com/jdmm21/app/loginmodule/JaasLoginModule.class
+pe/com/jdmm21/app/loginmodule/JaasAuthorityGranter.class
+pe/com/jdmm21/app/controllers/JaasController.class
